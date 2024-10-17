@@ -1,10 +1,11 @@
-TODO
 
-- 👋 Hi, I’m @pioardi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔥 💂 ☁️ 💰  
+**Alessandro** ( aka Financial Guardian of the Cloud, as someone defined him )  is an enthusiast Software Engineer with a strong Devops mindset, his focus is mainly on Cloud Architecture, Backend programming and Site Reliability Engineering.
+
+Alessandro is working at Nearform as Senior Devops Engineer currenly focused on Observability (Grafana), Resiliency and cost-efficiency/saving.
+
+- 🌱 I’m currently learning Grafana Cloud and planning to start on AWS ( currently an Azure Expert )
+- 📫 Reach Alessandro at alessandroardizio94@gmail.com 
 
 <!---
 pioardi/pioardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
